@@ -1,0 +1,23 @@
+h1 {
+
+    text-align: center;
+
+}
+
+.links {
+    width: 100%;
+    padding: 2px;
+    bottom: 0;
+    background-color: rgb(236, 216, 229);
+    text-align: center ;
+}
+
+footer {
+    text-align: center;
+    padding: 2px;
+    background-color: #f0f0f0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
